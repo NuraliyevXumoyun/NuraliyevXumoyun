@@ -14,13 +14,8 @@
 
 ---
 
-### 📊 Моя статистика GitHub
-
- Здесь будут автоматически отображаться ваши успехи (замените NuraliyevXumoyun на ваш реальный логин на GitHub)
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
-</p>
+### 📊 Занятость:
+На данный момент имею большое количествл времени
 
 ---
 
