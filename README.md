@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Привет! Я Нуралиев Хумоюн
 
-<!--
-**NuraliyevXumoyun/NuraliyevXumoyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Разработчик / Начинающий специалист
 
-Here are some ideas to get you started:
+Я создаю проекты, постоянно учусь новому и развиваю свои навыки в программировании. Стремлюсь писать чистый код и решать интересные задачи.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Мой технологический стек
+здесь вы можете перечислить свои языки и технологии, например:
+* **Языки:** HTML, CSS, JavaScript / Python / PHP
+* **Фреймворки & Библиотеки:** React / Vue / Django (выберите свое)
+* **Инструменты:** Git, GitHub, VS Code
+
+---
+
+### 📊 Моя статистика GitHub
+
+ Здесь будут автоматически отображаться ваши успехи (замените NuraliyevXumoyun на ваш реальный логин на GitHub)
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
+  <img src="https://vercel.app" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 📫 Как со мной связаться:
+* **Telegram:** [@baki_username](https://t.me)
